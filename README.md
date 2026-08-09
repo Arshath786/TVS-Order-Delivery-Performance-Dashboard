@@ -17,11 +17,3 @@ TVS order, customer, dealer, and delivery performance.
 4. Dealer Analysis
 5. Delivery Analysis
 6. Executive Summary
-
-## Dashboard Preview
-
-### Sales Analysis
-![Sales Analysis](Screenshots/Sales_Analysis.png)
-
-### Customer Analysis
-![Customer Analysis](Screenshots/Customer_Analysis.png)
