@@ -1,0 +1,16 @@
+Model_Code,Bike_Model,Brand,Category,Fuel_Type,Engine_CC,On_Road_Price
+TVS101,TVS Apache RTR 160,TVS Motors,Electric,Petrol,125,136161
+TVS102,TVS Apache RTR 180,TVS Motors,Scooter,Petrol,180,94315
+TVS103,TVS Apache RTR 200 4V,TVS Motors,Commuter,Petrol,180,77919
+TVS104,TVS Ronin,TVS Motors,Commuter,Petrol,160,79750
+TVS105,TVS Raider 125,TVS Motors,Sports,Petrol,125,113505
+TVS106,TVS Star City Plus,TVS Motors,Scooter,Petrol,160,70649
+TVS107,TVS Sport,TVS Motors,Electric,Petrol,180,118332
+TVS108,TVS Jupiter,TVS Motors,Electric,Petrol,180,111884
+TVS109,TVS Ntorq 125,TVS Motors,Electric,Petrol,110,139786
+TVS110,TVS XL100,TVS Motors,Electric,Petrol,125,112765
+TVS111,TVS iQube Electric,TVS Motors,Scooter,Electric,160,83015
+TVS112,TVS Radeon,TVS Motors,Sports,Petrol,160,106111
+TVS113,TVS Scooty Pep+,TVS Motors,Scooter,Petrol,100,76853
+TVS114,TVS Scooty Zest,TVS Motors,Electric,Petrol,180,118776
+TVS115,TVS Jupiter 125,TVS Motors,Commuter,Petrol,160,71505
